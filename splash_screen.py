@@ -22,14 +22,7 @@ st.markdown('''
 st.title('Generate Optimal Team')
 st.markdown("""---""")
 
-st.markdown('''
-    <a href="http://0.0.0.0:5000/">
-	<img src="https://resources.premierleague.com/premierleague/photo/2020/06/08/e622b94f-6ad4-43d4-a1c2-226eb8b2f163/FantasyLaunch-EditorialLead-Graphic1-002-.png" width="400" />
-    </a>''',
-    unsafe_allow_html=True
-)
-st.title('Player Statistics')
-	
+
 
 
    
